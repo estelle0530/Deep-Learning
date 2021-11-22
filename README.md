@@ -14,3 +14,5 @@
 3. [GRU-based multi head model to predict microbe-host and microbe-microbe interactions](https://github.com/estelleyao0530/Deep-Learning/blob/main/Autoregressive_microbe.ipynb)
    - Achieved multi-tasking classification of host disease state
    - Achieved autoregressive time seires prediction of microbial relative abundance at different taxonomy levels
+
+![alt text](https://github.com/estelleyao0530/Deep-Learning/blob/main/Figure/gru_schematic.png)
