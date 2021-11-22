@@ -11,7 +11,7 @@
 ![alt text](https://github.com/estelleyao0530/Deep-Learning/blob/main/Figure/mars_schematic.png)
 ![alt text](https://github.com/estelleyao0530/Deep-Learning/blob/main/Figure/mars_result.png)
 
-3. [GRU-based multi head model to predict microbe-host and microbe-microbe interactions](https://github.com/estelleyao0530/Deep-Learning/blob/main/Autoregressive_microbe.ipynb)
+3. [GRU-based multi head model to predict microbe-host and microbe-microbe interactions](https://github.com/estelleyao0530/Deep-Learning/tree/main/Multi-head%20Microbial%20State%20Prediction%20Model)
    - Achieved multi-tasking classification of host disease state
    - Achieved autoregressive time seires prediction of microbial relative abundance at different taxonomy levels
    - Created in-silico experiments to test perturbation effects 
