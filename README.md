@@ -7,6 +7,10 @@
    - Achieved improved modality integration between single cell RNA and ATAC seq data
    - Enhanced label transfering from single cell RNA to highly sparsed ATAC seq data
    - Achieved better clustering boundaries than AE based MARS for multi-modal single cell annotation
+
+![alt text](https://github.com/estelleyao0530/Deep-Learning/blob/main/Figure/mars_schematic.png)
+![alt text](https://github.com/estelleyao0530/Deep-Learning/blob/main/Figure/mars_result.png)
+
 3. [GRU-based multi head model to predict microbe-host and microbe-microbe interactions](https://github.com/estelleyao0530/Deep-Learning/blob/main/Autoregressive_microbe.ipynb)
    - Achieved multi-tasking classification of host disease state
    - Achieved autoregressive time seires prediction of microbial relative abundance at different taxonomy levels
